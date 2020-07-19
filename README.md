@@ -1,1 +1,2 @@
-# DataMining_HW2
+## DataMining_HW2
+### concept: time series
